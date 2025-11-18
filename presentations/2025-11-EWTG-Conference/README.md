@@ -22,7 +22,7 @@ This session introduces a practical, cross-sector project management playbook fo
 ---
 
 ### 📂 Materials
-- [Presentation Slides (PDF)](./EWTG-Conference-Slides.pdf)
+- [Presentation Slides (PDF)](presentations/2025-11-EWTG-Conference/Morgan_A Playbook for Leading Technology and Innovation in Traditional Environments.pdf)
 - 📄 Session handout
 - 🔧 Practical frameworks and templates
 - 📚 Additional resources and references
