@@ -22,11 +22,7 @@ This session introduces a practical, cross-sector project management playbook fo
 ---
 
 ### 📂 Materials
-
-*Materials from this presentation will be available after November 17, 2025.*
-
-**Coming soon:**
-- 📊 Presentation slides
+- [Presentation Slides (PDF)](./EWTG-Conference-Slides.pdf)
 - 📄 Session handout
 - 🔧 Practical frameworks and templates
 - 📚 Additional resources and references
