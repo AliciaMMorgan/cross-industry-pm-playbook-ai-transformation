@@ -22,7 +22,7 @@ This session introduces a practical, cross-sector project management playbook fo
 ---
 
 ### 📂 Materials
-- [Presentation Slides (PDF)](presentations/2025-11-EWTG-Conference/Morgan_A%20Playbook%20for%20Leading%20Technology%20and%20Innovation%20in%20Traditional%20Environments.pdf)
+- [Presentation Slides (PDF)](https://github.com/AliciaMMorgan/cross-industry-pm-playbook-ai-transformation/raw/main/presentations/2025-11-EWTG-Conference/Morgan_A%20Playbook%20for%20Leading%20Technology%20and%20Innovation%20in%20Traditional%20Environments.pdf)
 - 📄 Session handout
 - 🔧 Practical frameworks and templates
 - 📚 Additional resources and references
