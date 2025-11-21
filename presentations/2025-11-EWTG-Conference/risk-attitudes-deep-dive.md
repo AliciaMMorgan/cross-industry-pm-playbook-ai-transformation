@@ -211,4 +211,4 @@ Tailor pilot programs, messaging, and support based on whether teams are current
 A living glossary that translates risk language across departments:
 - "Validation" (engineering) = "Proof" (finance) = "Due diligence" (legal)
 - "Pilot" (innovation) = "Experiment" (R&D) = "Controlled test" (compliance)
-- "
+  
