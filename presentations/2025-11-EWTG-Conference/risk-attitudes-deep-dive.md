@@ -39,7 +39,7 @@ This companion document goes deeper than the presentation, exploring:
 
 These profiles are **illustrative tendencies**, not rigid categories. Teams and individuals can occupy different positions depending on project phase, organizational pressure, or personal experience.
 
-### **Risk-Averse Profile**(Commonly observed in roles with high accountability for system failure, regulatory compliance, or safety-critical decisions (e.g., engineering, compliance, legal functions)
+### **Risk-Averse Profile**(Commonly observed in roles with high accountability for system failure, regulatory compliance, or safety-critical decisions (e.g., engineering, compliance, legal functions)###
 
 **Typical Mindset:**  
 *"Prove it works before we deploy it."*
