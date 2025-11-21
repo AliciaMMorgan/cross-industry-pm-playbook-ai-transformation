@@ -226,6 +226,7 @@ The goal is not to replace rigorous academic research but to provide practitione
 
 **For more resources on AI transformation, strategic project management, and cross-functional leadership:**  
 Visit [aliciammorgan.com](https://aliciammorgan.com)
+Learn more about Understanding and managing risk attitude (https://pmworldjournal.com/article/understanding-and-managing-risk-attitude)
 
 ***
   
