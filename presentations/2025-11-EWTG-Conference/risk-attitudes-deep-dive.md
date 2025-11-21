@@ -61,7 +61,8 @@ These profiles are **illustrative tendencies**, not rigid categories. Teams and 
 
 ***
 
-### **Risk-Neutral Profile (Commonly observed in roles focused on resource allocation, operational efficiency, and measurable outcomes(e.g., finance, operations, mid-level leadership)**
+### **Risk-Neutral Profile** 
+(Commonly observed in roles focused on resource allocation, operational efficiency, and measurable outcomes(e.g., finance, operations, mid-level leadership)
 
 **Typical Mindset:**  
 *"Show me the ROI and the trade-offs."*
@@ -82,7 +83,8 @@ These profiles are **illustrative tendencies**, not rigid categories. Teams and 
 
 ***
 
-### **Risk-Tolerant Profile (Commonly observed in roles balancing strategic vision with organizational sustainability (e.g., executive leadership, mission-driven teams)**
+### **Risk-Tolerant Profile** 
+(Commonly observed in roles balancing strategic vision with organizational sustainability (e.g., executive leadership, mission-driven teams)
 
 **Typical Mindset:**  
 *"We need to move forward, but not at the expense of trust or reputation."*
@@ -103,7 +105,8 @@ These profiles are **illustrative tendencies**, not rigid categories. Teams and 
 
 ***
 
-### **Risk-Seeking Profile (Commonly observed in roles designed for experimentation and innovation (e.g., R&D, innovation labs, early adopter groups,)**
+### **Risk-Seeking Profile** 
+(Commonly observed in roles designed for experimentation and innovation (e.g., R&D, innovation labs, early adopter groups,)
 
 **Typical Mindset:**  
 *"Let's experiment and iterate—failure is learning."*
