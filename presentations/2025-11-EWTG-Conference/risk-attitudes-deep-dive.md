@@ -47,7 +47,7 @@ These profiles are **illustrative tendencies**, not rigid categories. Teams and 
 
 **Common Concerns:**  
 - Being held responsible for system failure, regulatory penalties, or safety incidents
-- Fear of moving too fast without validation in high-stakes environments (aerospace, healthcare, manufacturing)[
+- Fear of moving too fast without validation in high-stakes environments (aerospace, healthcare, manufacturing)
 
 **What They May Need:**  
 - **Threat modeling** instead of vague "risk management" language
