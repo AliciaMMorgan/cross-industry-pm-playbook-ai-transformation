@@ -24,7 +24,7 @@ This session introduces a practical, cross-sector project management playbook fo
 ### 📂 Materials
 - [Presentation Slides (PDF)](https://github.com/AliciaMMorgan/cross-industry-pm-playbook-ai-transformation/raw/main/presentations/2025-11-EWTG-Conference/Morgan_A%20Playbook%20for%20Leading%20Technology%20and%20Innovation%20in%20Traditional%20Environments.pdf)
 - [Presentation Handout (PDF)](https://github.com/AliciaMMorgan/cross-industry-pm-playbook-ai-transformation/raw/main/presentations/2025-11-EWTG-Conference/Morgan_EWTG%20Presentation_Handout.pdf)
-- [Risk Attitudes in Technology Adoption](2025-11-EWTG-Conference/risk-attitudes-deep-dive.md](https://github.com/AliciaMMorgan/cross-industry-pm-playbook-ai-transformation/blob/f212124f18d41f72fe4a2c0de5a3668d54aca094/presentations/2025-11-EWTG-Conference/risk-attitudes-deep-dive.md)
+- [Risk Attitudes in Technology Adoption](https://github.com/AliciaMMorgan/cross-industry-pm-playbook-ai-transformation/blob/f212124f18d41f72fe4a2c0de5a3668d54aca094/presentations/2025-11-EWTG-Conference/risk-attitudes-deep-dive.md)
 - 🔧 Practical frameworks and templates
 - 📚 Additional resources and references
 
