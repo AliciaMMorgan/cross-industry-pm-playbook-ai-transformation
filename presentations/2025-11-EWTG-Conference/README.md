@@ -32,7 +32,7 @@ This session introduces a practical, cross-sector project management playbook fo
 
 ### 🔗 Related Resources
 
-- **Main Playbook:** [Back to Cross-Industry PM Playbook](../../)
+- **Main Playbook:** [Back to Cross-Industry PM Playbook](https://github.com/AliciaMMorgan/cross-industry-pm-playbook-ai-transformation)
 - **Career Roadmap:** [Cross-Industry PM Career Roadmap](https://github.com/users/AliciaMMorgan/projects/2/views/1)
 - **Website:** [aliciammorgan.com](https://aliciammorgan.com)
 
