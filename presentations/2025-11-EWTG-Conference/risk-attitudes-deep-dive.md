@@ -1,6 +1,6 @@
 # **Risk Attitudes in Technology Adoption: The Psychological Layer Behind Innovation and Resistance**
 
-## **Companion Resource to EWTG 2025 Conference Presentation**  
+## **Companion Resource to EWTG 2025 Conference Presentation** 
 *Cross-Industry Project Management for AI Transformation*
 
 ***
@@ -131,10 +131,10 @@ In any technology transformation, teams with different risk attitudes must colla
 Engineering wants proof; innovation wants speed. Finance wants ROI; legal wants compliance. These aren't personality conflicts—they're rational responses to different accountability structures.
 
 ### **Communication Barriers**
-Different teams use different languages to describe risk. What engineering calls "validation" might sound like "red tape" to business units. What finance calls "due diligence" might feel like "risk aversion" to innovation teams.[18][17][5]
+Different teams use different languages to describe risk. What engineering calls "validation" might sound like "red tape" to business units. What finance calls "due diligence" might feel like "risk aversion" to innovation teams.
 
 ### **Cultural Friction**
-In traditional environments (aerospace, manufacturing, government), risk-averse cultures often dominate—but innovation demands risk tolerance. Leaders must bridge this gap intentionally, not by mandating a single approach, but by creating structures that honor both perspectives.[10][6][12][13]
+In traditional environments (aerospace, manufacturing, government), risk-averse cultures often dominate—but innovation demands risk tolerance. Leaders must bridge this gap intentionally, not by mandating a single approach, but by creating structures that honor both perspectives.
 
 ### **Practical Example:**
 In a digital transformation project, the engineering team demanded six months of testing before deploying new AI tools. The business unit, facing competitive pressure, wanted deployment in 30 days. The solution: a **phased pilot with clear success metrics, stakeholder checkpoints, and shared risk ownership**—meeting both needs without compromising safety or speed.
@@ -176,7 +176,7 @@ Risk attitudes are not fixed. They respond dynamically to change,
 - A strong safety culture increases risk aversion; a culture of psychological safety enables risk-seeking
 
 **Incentive Structures:**  
-- Personal accountability (e.g., bonus tied to on-time delivery) drives conservative choices; corporate risk-sharing enables bolder moves[1]
+- Personal accountability (e.g., bonus tied to on-time delivery) drives conservative choices; corporate risk-sharing enables bolder moves
 
 **Project Phase:**  
 - Early exploration favors risk-seeking; production deployment increases risk aversion
@@ -195,7 +195,7 @@ Risk attitudes are not fixed. They respond dynamically to change,
 ## **6. Practical Tools and Frameworks**
 
 ### **Risk Attitude Mapping Matrix**
-A simple table to map stakeholders to their *current* dominant risk profile and preferred communication style. Update this quarterly or as project phases shift.
+A simple table to map stakeholders to their *current* dominant risk profile and preferred communication style. Could you update this quarterly or as project phases shift?
 
 | **Team/Stakeholder** | **Current Risk Attitude** | **Key Concerns** | **Preferred Communication** | **Next Checkpoint** |
 |----------------------|--------------------------|------------------|-----------------------------|---------------------|
