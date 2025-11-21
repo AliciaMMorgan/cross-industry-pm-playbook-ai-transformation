@@ -39,7 +39,7 @@ This companion document goes deeper than the presentation, exploring:
 
 These profiles are **illustrative tendencies**, not rigid categories. Teams and individuals can occupy different positions depending on project phase, organizational pressure, or personal experience.
 
-### **Risk-Averse (Often Engineers, Compliance Teams, Legal)**
+### **Risk-Averse Profile (Commonly observed in roles with high accountability for system failure, regulatory compliance, or safety-critical decisions (e.g., engineering, compliance, legal functions)**
 
 **Typical Mindset:**  
 *"Prove it works before we deploy it."*
@@ -60,7 +60,7 @@ These profiles are **illustrative tendencies**, not rigid categories. Teams and 
 
 ***
 
-### **Risk-Neutral (Often Finance, Operations, Mid-Level Leadership)**
+### **Risk-Neutral Profile (Commonly observed in roles focused on resource allocation, operational efficiency, and measurable outcomes(e.g., finance, operations, mid-level leadership)**
 
 **Typical Mindset:**  
 *"Show me the ROI and the trade-offs."*
@@ -81,7 +81,7 @@ These profiles are **illustrative tendencies**, not rigid categories. Teams and 
 
 ***
 
-### **Risk-Tolerant (Often Executives, Strategic Leadership, Mission-Driven Teams)**
+### **Risk-Tolerant Profile (Commonly observed in roles balancing strategic vision with organizational sustainability (e.g., executive leadership, mission-driven teams)**
 
 **Typical Mindset:**  
 *"We need to move forward, but not at the expense of trust or reputation."*
@@ -102,7 +102,7 @@ These profiles are **illustrative tendencies**, not rigid categories. Teams and 
 
 ***
 
-### **Risk-Seeking (Often Innovation Teams, Early Adopters, R&D Units)**
+### **Risk-Seeking Profile (Commonly observed in roles designed for experimentation and innovation (e.g., R&D, innovation labs, early adopter groups,)**
 
 **Typical Mindset:**  
 *"Let's experiment and iterate—failure is learning."*
@@ -211,4 +211,17 @@ Tailor pilot programs, messaging, and support based on whether teams are current
 A living glossary that translates risk language across departments:
 - "Validation" (engineering) = "Proof" (finance) = "Due diligence" (legal)
 - "Pilot" (innovation) = "Experiment" (R&D) = "Controlled test" (compliance)
+
+  ***
+
+## **About This Framework**
+
+This framework synthesizes insights from behavioral economics, organizational psychology, risk management research, and cross-industry project management practice. It draws on 15+ years of experience leading technology adoption across aerospace, manufacturing, government, and AI transformation initiatives.
+
+The goal is not to replace rigorous academic research but to provide practitioners with actionable tools for navigating the human dynamics of innovation and change.
+
+**For more resources on AI transformation, strategic project management, and cross-functional leadership:**  
+Visit [aliciammorgan.com](https://aliciammorgan.com)
+
+***
   
