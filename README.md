@@ -38,7 +38,7 @@ My work has earned national and regional recognition. I'm a 2019 **Dallas Busine
 
 - 🎤 **2023 WE23 Conference**: Inspirational Insight Sessions Speaker on [*Strategic Leadership: Empowering Teams to Win*](https://youtu.be/5RlDCOTRQHA?si=0hI9VR8N5aT8Ic9C)
 
-- 🎤 **2017 TEDx Plano Speaker**: Keynote on growth mindset, embracing failure, and inclusion [*(8K+ views https://youtu.be/6ayGGbMnvI8?si=6xLnzwh1X33Z2iCr)*]
+- 🎤 **2017 TEDx Plano Speaker**: Keynote on growth mindset, embracing failure, and inclusion [*(8K+ views [View Here (https://youtu.be/6ayGGbMnvI8?si=6xLnzwh1X33Z2iCr)*]
 
 - 🔬 **Society of Women Engineers**: [*Women Engineers You Should Know* feature (2017)](https://alltogether.swe.org/2017/10/women-engineers-you-should-know-alicia-morgan/) and *2019 WE Local Engaged Advocate K-12 Educator Honoree*
 
