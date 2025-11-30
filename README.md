@@ -15,7 +15,7 @@
 This playbook grew out of my 15-plus year journey from traditional PM work in technical environments to innovation leadership across nonprofits, education, and enterprise organizations. In this context, PM includes both structured project execution and strategic program leadership, often adjacent to product and operations management. It reflects the shift from being a risk-averse engineer to becoming more risk-tolerant, navigating multiple risk attitudes, and stepping across industries as an independent consultant and innovation leader. Designed to help project managers, program leaders, innovation leaders, and cross-functional teams build from structure into adaptive agility without losing clarity or execution discipline, this repo captures the principles, pivots, and lessons learned through 2025. Starting in 2026, it will remain static as a snapshot of that journey and the foundation it created for the work I do next.
 >🔍 A cross-industry PM requires fluency in both explicit knowledge (formal methods, strategic frameworks) and tacit knowledge — the kind learned through lived experience, timing, communication, and decision-making across complex, real-world settings. This playbook includes both, grounded in a lived cross-sector journey, mapped out in the companion [Cross-Industry PM Career Roadmap](https://github.com/users/AliciaMMorgan/projects/2/views/1).
 
-> This open-source playbook is hosted on GitHub and serves as a career-spanning archive — part roadmap, part reflection — capturing the principles, pivots, and practical tools behind cross-industry leadership.
+> This open-source playbook is hosted on GitHub and serves as a career-spanning archive — part roadmap, part reflection — that captures the principles, pivots, and practical tools behind cross-industry leadership.
 
 ### 👇 Credibility at a Glance
 
@@ -38,7 +38,7 @@ My work has earned national and regional recognition. I'm a 2019 **Dallas Busine
 
 - 🎤 **2023 WE23 Conference**: Inspirational Insight Sessions Speaker on [*Strategic Leadership: Empowering Teams to Win*](https://youtu.be/5RlDCOTRQHA?si=0hI9VR8N5aT8Ic9C)
 
-- 🎤 **2017 TEDx Plano Speaker**: Keynote on growth mindset, embracing failure, and inclusion [*(8K+ views)](View Here (https://youtu.be/6ayGGbMnvI8?si=6xLnzwh1X33Z2iCr)*
+- 🎤 **2017 TEDx Plano Speaker**: Keynote on growth mindset, embracing failure, and inclusion [*(8K+ views)*](View Here[(https://youtu.be/6ayGGbMnvI8?si=6xLnzwh1X33Z2iCr)]*
 
 - 🔬 **Society of Women Engineers**: [*Women Engineers You Should Know* feature (2017)](https://alltogether.swe.org/2017/10/women-engineers-you-should-know-alicia-morgan/) and *2019 WE Local Engaged Advocate K-12 Educator Honoree*
 
