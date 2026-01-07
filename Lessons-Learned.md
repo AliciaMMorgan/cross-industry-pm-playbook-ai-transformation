@@ -1,5 +1,11 @@
 # 🔁 Lessons Learned
 
+[![Lessons Learned](https://img.shields.io/badge/Lessons%20Learned-Retrospectives-blue?style=for-the-badge&logo=reflection&logoColor=white)](https://github.com/AliciaMMorgan/cross-industry-pm-playbook)
+[![Tacit Knowledge](https://img.shields.io/badge/Tacit%20Knowledge-Archive-green?style=flat-square&logo=book)](https://github.com/AliciaMMorgan/cross-industry-pm-playbook/blob/main/Innovation_Leadership_Reading_List.md)
+[![CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey?style=flat&logo=creativecommons)](https://creativecommons.org/licenses/by/4.0/)
+
+
+
 _This file captures key reflections from retrospectives, debriefs, and lived experiences across cross-industry projects. It is a living knowledge archive to support strategic learning, embodied leadership, and long-term impact._
 
 ---
