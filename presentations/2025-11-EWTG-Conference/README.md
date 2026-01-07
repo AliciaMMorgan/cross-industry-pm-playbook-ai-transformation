@@ -1,5 +1,9 @@
 # EWTG 2025 Conference Presentation
 
+[![NIST AI RMF](https://img.shields.io/badge/NIST-AI%20RMF-blueviolet?style=for-the-badge&logo=nist&logoColor=white)](https://www.nist.gov/itl/ai-risk-management-framework)
+[![Responsible AI](https://img.shields.io/badge/Responsible_AI-NIST%20Playbook-orange?style=flat-square)](https://airc.nist.gov/airmf-resources/playbook/)
+
+
 ## A Playbook for Leading Technology and Innovation in Traditional Environments
 
 **Presented by:** Alicia M. Morgan, PMP, AM-MC  
