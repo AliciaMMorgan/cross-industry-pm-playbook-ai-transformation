@@ -1,5 +1,10 @@
 # 📚 Cross-Industry Innovation & Leadership Reading List
 
+[![Innovation Capital](https://img.shields.io/badge/Innovation-Capital%20Reading%20List-blue?style=for-the-badge&logo=book&logoColor=white)](https://github.com/AliciaMMorgan/cross-industry-pm-playbook)
+[![PMI Recommended](https://img.shields.io/badge/PMI-PMP%20Aligned-green?style=flat-square&logo=pmi)](https://www.pmi.org/)
+[![CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey?style=flat&logo=creativecommons)](https://creativecommons.org/licenses/by/4.0/)
+
+
 Welcome to a living reading list curated to reflect the evolution from engineer and individual contributor to cross-industry innovation leader. These resources span leadership, influence, innovation capital, strategic communication, organizational dynamics, social capital, philanthropy, and personal development.
 
 They reflect 15+ years of growth — from engineering execution to leading innovation in traditional, formal, and informal education settings and beyond.
