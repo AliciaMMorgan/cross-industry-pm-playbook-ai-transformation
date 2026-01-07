@@ -1,5 +1,10 @@
 # 🎨 Curatorial Leadership & My Innovator’s DNA
 
+[![Innovator’s DNA](https://img.shields.io/badge/Innovator%27s%20DNA-Mastery-blue?style=for-the-badge&logo=brain&logoColor=white)](https://hbr.org/2009/12/the-innovators-dna)
+[![Business Chemistry](https://img.shields.io/badge/Business%20Chemistry-Driver_Guardian-green?style=flat-square&logo=deloitte)](https://www2.deloitte.com/us/en/pages/consulting/solutions/business-chemistry.html)
+[![CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey?style=flat&logo=creativecommons)](https://creativecommons.org/licenses/by/4.0/)
+
+
 This section of the Cross-Industry PM Playbook captures how I’ve led not only through formal roles or projects, but also through curating inclusive, insight-driven experiences across industries. This includes Fortune 500 business resource groups, nonprofit and museum education programs, STEAM-integrated youth initiatives, and career development events in advisory roles. Curation here is not a sidebar — it is a **core innovation and leadership competency**.
 
 ## 🧬 Innovative DNA in Action
