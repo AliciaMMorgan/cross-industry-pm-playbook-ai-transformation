@@ -1,5 +1,10 @@
 # Lessons Learned: Cross-Industry Program & Project Leadership
 
+[![Cross-Industry PM](https://img.shields.io/badge/Cross%20Industry-PM%20Playbook-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AliciaMMorgan/cross-industry-pm-playbook)
+[![PMP Lessons](https://img.shields.io/badge/Lessons-PMP%20Aligned-green?style=flat-square&logo=pmi)](https://www.pmi.org/pmbok-guide-standards)
+[![Creative Commons](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey?style=flat&logo=creativecommons)](https://creativecommons.org/licenses/by/4.0/)
+
+
 Transitioning across sectors — from aerospace and defense to nonprofits, education, and innovation spaces — has required not only technical fluency but deep adaptability. These lessons reflect lived experiences from engineering to executive leadership, and they’re shaped by trusted insights from my [Innovation & Leadership Reading List](https://github.com/AliciaMMorgan/cross-industry-pm-playbook/blob/main/Innovation_Leadership_Reading_List.md). This is not an exhaustive list — consider it a field-tested starting point.
 
 Each lesson is paired with recommended readings (books or research articles) drawn from the reading list. You may add more over time as you deepen your journey.
