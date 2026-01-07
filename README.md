@@ -1,5 +1,12 @@
 # A Practical Guide for Leading Innovation Across Sectors
 
+[![PMP](https://img.shields.io/badge/PMP-Certified-blue?style=for-the-badge&logo=project-management)](https://www.pmi.org/certifications/project-management-pmp)
+[![NIST AI RMF](https://img.shields.io/badge/NIST_AI_RMF-1.0-orange?style=for-the-badge&logo=nist)](https://www.nist.gov/itl/ai-risk-management-framework)
+[![Python](https://img.shields.io/badge/Python-3.9%2B-brightgreen?style=for-the-badge&logo=python)](https://www.python.org/)
+[![License](https://img.shields.io/github/license/AliciaMMorgan/cross-industry-pm-playbook?color=green&style=for-the-badge)](http://creativecommons.org/licenses/by/4.0/)
+[![GitHub stars](https://img.shields.io/github/stars/AliciaMMorgan/cross-industry-pm-playbook?style=social)](https://github.com/AliciaMMorgan/cross-industry-pm-playbook)
+
+
 > 🎤 **Featured Presentation | November 16-17, 2025**  
 > **A Playbook for Leading Technology and Innovation in Traditional Environments**  
 > 2025 Executive Women in Texas Government (EWTG) Annual Professional Development Conference  
